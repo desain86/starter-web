@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Development
 
+Updated Readme to have development section to test tokening
+
 ## How to contribute
