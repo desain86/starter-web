@@ -6,6 +6,7 @@ Change #1 to move to staging area
 ## Purpose
 
 Sample website with plenty of files for demos
+Change #2 to keep in working directory
 
 ## Development
 
