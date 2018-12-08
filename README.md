@@ -5,6 +5,8 @@ Change #1 to move to staging area
 
 This is a change for rebase.
 
+This is to effect the rebase.
+
 ## Purpose
 
 Sample website with plenty of files for demos
