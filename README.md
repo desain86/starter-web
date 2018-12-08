@@ -1,7 +1,11 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Change #1 to move to staging area
+Change #1 to move to staging area 
+
+This is a change for rebase.
+
+This is to effect the rebase.
 
 ## Purpose
 
